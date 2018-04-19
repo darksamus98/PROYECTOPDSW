@@ -10,5 +10,6 @@ package entidades;
  * @author 2112076
  */
 public class Asignatura {
-    
+    private int id;
+    private String nombre;
 }

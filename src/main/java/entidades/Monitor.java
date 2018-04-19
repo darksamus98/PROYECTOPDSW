@@ -10,5 +10,9 @@ package entidades;
  * @author 2112076
  */
 public class Monitor {
-    
+    private int id;
+    private String nombre;
+    private String apellido;
+    private int telefono;
+    private String carrera;
 }

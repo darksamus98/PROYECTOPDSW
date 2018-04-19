@@ -10,5 +10,7 @@ package entidades;
  * @author 2112076
  */
 public class Grupo {
-    
+    private int numero;
+    private Semestre semestre;
+    private Profesor profesor;
 }

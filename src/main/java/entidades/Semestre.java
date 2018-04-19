@@ -5,10 +5,15 @@
  */
 package entidades;
 
+import java.util.Date;
+
 /**
  *
  * @author 2112076
  */
 public class Semestre {
-    
+    private int periodo;
+    private int año;
+    private Date inicio;
+    private Date fin;
 }
