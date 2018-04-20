@@ -13,6 +13,7 @@ public class Profesor {
     private int id;
     private String nombre;
     private String apellido;
+<<<<<<< HEAD
     private String correo;
 
     public int getId() {
@@ -46,4 +47,7 @@ public class Profesor {
     public void setCorreo(String correo) {
         this.correo = correo;
     }
+=======
+    private String Correo;
+>>>>>>> 68d7fb11e2cf46cef5e83688ae9ab187b7dd6478
 }

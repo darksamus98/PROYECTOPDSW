@@ -16,6 +16,7 @@ public class Semestre {
     private int año;
     private Date inicio;
     private Date fin;
+<<<<<<< HEAD
 
     public int getPeriodo() {
         return periodo;
@@ -48,4 +49,6 @@ public class Semestre {
     public void setFin(Date fin) {
         this.fin = fin;
     }
+=======
+>>>>>>> 68d7fb11e2cf46cef5e83688ae9ab187b7dd6478
 }

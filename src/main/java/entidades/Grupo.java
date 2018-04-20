@@ -13,6 +13,7 @@ public class Grupo {
     private int numero;
     private Semestre semestre;
     private Profesor profesor;
+<<<<<<< HEAD
 
     public int getNumero() {
         return numero;
@@ -37,4 +38,6 @@ public class Grupo {
     public void setProfesor(Profesor profesor) {
         this.profesor = profesor;
     }
+=======
+>>>>>>> 68d7fb11e2cf46cef5e83688ae9ab187b7dd6478
 }
